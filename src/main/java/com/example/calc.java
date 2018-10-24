@@ -1,4 +1,6 @@
-import java.util.*;
+package com.example;
+
+import java.util.Scanner;
 
 class calc{
     public static void main(String[] arg){
